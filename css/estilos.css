@@ -1,16 +1,25 @@
 body{
+   margin: 0;
+   padding: 0;
    color: #333;
    font-family: "Arial";
+   font-size: 16px;
 }
 
 .container{
    width: 70%;
    margin: 0 auto;
-   padding: 30px 30px;
    border: solid 1px;
    text-align: left;
+   font-size: 20px;
 }
 
 .post {
    font-size: 18px;
+   margin: 30px 20px;
+}
+
+.post h1{
+   margin: 0;
+   font-size: 20px;
 }
