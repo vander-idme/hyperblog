@@ -7,6 +7,16 @@ body{
    font-size: 16px;
 }
 
+
+.container{
+   width: 70%;
+   margin: 0 auto;
+   border: solid 1px white;
+   text-align: left;
+   font-size: 20px;
+   background-color: white;
+}
+
 .cabecera{
    background-color: #2988FF;
    color: white;
@@ -27,16 +37,6 @@ body{
    margin-left: 15px;
 }
 
-.container{
-   width: 70%;
-   margin: 0 auto;
-   border: solid 1px white;
-   text-align: left;
-   font-size: 20px;
-   background-color: white;
-   
-}
-
 .post {
    font-size: 18px;
    margin: 30px 20px;
@@ -45,12 +45,6 @@ body{
 .post h1{
    margin: 0;
    font-size: 20px;
-}
-
-.merging {
-   font-size: 18px;
-   margin: 30px 20px;
-   color: teal;
 }
 
 .footer{
