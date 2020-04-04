@@ -15,6 +15,7 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 
 Y con el estudiante estrella xD!
 que incluyen apuntes a mano que hizo el estudiante
+disponible solo en fisico
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
 
